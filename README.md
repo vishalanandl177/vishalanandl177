@@ -1,5 +1,8 @@
 ### Hi there my name is Vishal Anand 👋
 
+![trophy](https://github-profile-trophy.vercel.app/?username=vishalanandl177)
+![Mertcan's github stats](https://github-readme-stats.vercel.app/api?username=vishalanandl177&show_icons=true&theme=dark)
+
 ## Useful Links 💙
 
 - [Blog](https://coderssecret.com/)
