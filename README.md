@@ -1,4 +1,8 @@
-### Hi there my name is Vishal Anand 👋
+### Hi there my name is Vishal Anand - Technical Lead 👋
+
+- 📫 Reach me at **vishalanandl177@gmail.com**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalanandl177" alt="Vishal Anand" /> </p>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=vishalanandl177)
 ![Mertcan's github stats](https://github-readme-stats.vercel.app/api?username=vishalanandl177&show_icons=true&theme=dark)
