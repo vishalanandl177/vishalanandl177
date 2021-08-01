@@ -7,7 +7,7 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=vishalanandl177)
 ![Mertcan's github stats](https://github-readme-stats.vercel.app/api?username=vishalanandl177&show_icons=true&theme=dark)
 
-<a href="https://discord.gg/Kr8SbgPe"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Join Community Badge"/></a>
+<a href="https://discord.gg/qcRSK8Pc"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Join Community Badge"/></a>
 
 
 ## Useful Links 💙
