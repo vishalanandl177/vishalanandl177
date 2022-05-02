@@ -1,4 +1,4 @@
-### Hi there my name is Vishal Anand - Technical Lead 👋
+### Hi there my name is Vishal Anand - Product Engineer 👋
 
 - 📫 Reach me at **vishalanandl177@gmail.com**
 
