@@ -17,5 +17,5 @@
 - [Dev.to](https://dev.to/vishalanandl177)
 - [YouTube](https://www.youtube.com/channel/UClDpg4mYA8xC6i4h-UfLZzw)
 - [Twitter](https://twitter.com/VISHALANANDL177)
-- [Instagram](https://www.instagram.com/vishal_chynybekov/)
+- [Instagram](https://www.instagram.com/vis_naz/)
 - [LinkedIn](https://www.linkedin.com/in/vishal-anand-530ba0b5/)
