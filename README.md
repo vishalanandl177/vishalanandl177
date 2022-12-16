@@ -9,6 +9,8 @@
 
 <a href="https://discord.com/invite/eeYansFDCT"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Join Community Badge"/></a>
 
+[![Donate](https://img.shields.io/badge/$-support-ff69b4.svg?style=flat)](https://paypal.me/chynybekov) 
+
 
 ## Useful Links 💙
 
