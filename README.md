@@ -21,8 +21,6 @@
 ## ⭐ Featured projects
 
 - **[DRF-API-Logger](https://github.com/vishalanandl177/DRF-API-Logger)** — drop-in API logger for Django REST Framework projects · **335★ · 72 forks**
-- **[General-Methods](https://github.com/vishalanandl177/General-Methods)** — utility belt for DRF projects: encryption, hashing, response helpers
-- **[coderssecret.com](https://github.com/vishalanandl177/coderssecret.com)** — the blog itself, built on Angular 21 + Tailwind CSS 4
 
 ## 🛠️ Tech I work with
 
